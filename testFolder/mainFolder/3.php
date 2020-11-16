@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h1><a href="index.php">Web</a><h1>
+        <h1><a href="../index.php">Web</a><h1>
         <ol>
             <li><a href="./1.php">HTML</a></li>
             <li><a href="./2.php">CSS</a></li>
